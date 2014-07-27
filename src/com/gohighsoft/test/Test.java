@@ -13,6 +13,7 @@ import java.util.Date;
 public class Test {
 	public static void main(String[] args) {
 		
+		System.out.println(">>>>>>>");
 		System.out.println(-2%-3);
 		String oldCode = "KCJHL0003000X4";
 		System.out.println(oldCode.length());

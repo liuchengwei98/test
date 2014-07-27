@@ -10,4 +10,7 @@ package com.gohighsoft.test;
  */
 public class Foo {
 
+	public static void main(String[] args) {
+		System.out.println(">>>>cuishi ju I love you ");
+	}
 }
